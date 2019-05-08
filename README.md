@@ -1,1 +1,2 @@
-# teb
+# Szkolne repo	
+Ćwiczenia z lekcji
